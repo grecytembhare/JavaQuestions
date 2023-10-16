@@ -28,9 +28,9 @@ public class UniqueChar {
     public static void main(String[] args) {
         System.out.print("Enter any String : ");
         Scanner userinput = new Scanner(System.in);
-        String input = userinput.next();
+        String input = userinput.nextLine();
         
-        char firstUnique = firstUniqueCharacter(input);
+        char firstUnique = firstUniqueCharacter(input.replaceAll("\\s+", ""));
          
         userinput.close();
 
