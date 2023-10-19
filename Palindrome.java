@@ -1,5 +1,9 @@
 import java.util.Scanner;
 
+/* Write a Java program to check whether a given word or phrase is a palindrome or not. A palindrome is a word, phrase, number. */
+
+
+
 public class Palindrome {
     public static void main(String[] args) {
         Scanner pali = new Scanner(System.in);
