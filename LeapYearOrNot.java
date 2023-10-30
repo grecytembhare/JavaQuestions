@@ -1,6 +1,15 @@
 
 import java.util.Scanner;
 
+
+/* 
+ * Date: 30-10-2023.
+ * WAP to Determine if a given year is a leap year.
+ * 
+ */
+
+
+
 public class LeapYearOrNot {
     public static void main(String[] args) {
         // Create a Scanner object for taking input
