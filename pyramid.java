@@ -1,5 +1,8 @@
 import java.util.Scanner;
 
+// Date: 02-11-2023. Write a program to print pyramid pattern using loop
+
+
 public class pyramid {
     public static void main(String[] args) {
         // taking input fron user
